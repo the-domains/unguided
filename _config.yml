@@ -6,9 +6,13 @@ color:
   saturation: 0.7723159859888256
   rhythmicContrast: 0.7345705421175808
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Unguided
+navigation:
+  - name: 'Hello,'
+    id: 1b5e3960-a346-43c5-8b2f-b5eca7eff0e6
+    type: content
