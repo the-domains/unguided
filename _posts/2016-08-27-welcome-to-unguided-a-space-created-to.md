@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-27T12:35:43.030Z'
+datePublished: '2016-08-27T13:10:23.631Z'
 sourcePath: _posts/2016-08-27-welcome-to-unguided-a-space-created-to.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T12:35:42.157Z'
+dateModified: '2016-08-27T12:53:28.087Z'
 title: Hello
 publisher: {}
 description: >-
   Welcome to Unguided, a space created to showcase the very best of travel–
   inspiring destinations and extraordinary experiences from around the world.
-hasPage: true
 starred: false
 url: hello/index.html
 _type: Article
