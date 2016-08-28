@@ -1,6 +1,5 @@
+layout_spectrum: 0.8102533929049969
 typography_spectrum: 0.9122311749961227
-content_rating:
-  adult: false
 color:
   brandStrength: 0.4807511852122843
   lightness: 0.0546218091621995
@@ -12,11 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.8102533929049969
 name: Unguided
-navigation:
-  - name: 'Hello,'
-    id: 1b5e3960-a346-43c5-8b2f-b5eca7eff0e6
-    type: content
-title: Unguided
-description: Where does tagline appear?
